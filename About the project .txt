@@ -1,0 +1,4 @@
+Description:
+
+This project is an AI-powered system for predicting skin diseases using deep learning models and image data. 
+It can assist healthcare professionals and patients in early diagnosis and treatment of skin condition
